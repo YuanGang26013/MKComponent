@@ -3,8 +3,7 @@
  */
 
 export default function(props) {
-
     return (
-        <button class="mk-button">{props.text}</button>
+        <button className="mk-button">{props.text}</button>
     )
 }
