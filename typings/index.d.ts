@@ -4,3 +4,4 @@
 
 import React = __React;
 import ReactDOM = __React.__DOM;
+import MKComponentProps = __MKComponentProps;
